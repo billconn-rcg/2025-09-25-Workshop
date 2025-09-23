@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "RCG/DSRS HPC Workshop - UCE 116"
+title: "RCG/DSRS HPC Workshop - ID Weeks 321"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -88,7 +88,7 @@ repository: <USERNAME>/<PROJECT>
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
-email: "team@carpentries.org"
+email: "rcg@usd.edu"
 
 # Sites.
 amy_site: "https://amy.carpentries.org"
