@@ -329,10 +329,10 @@ SURVEYS - these are home rolled
 <p>Please be sure to complete these surveys before and/or after the workshop.</p>
 
 {% if page.pre_workshop_survey %}
-<p><a href="{{ page.pre_workshop_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ page.pre_workshop_survey }}">Pre-workshop Survey</a></p>
 {% endif %}
 {% if page.post_workshop_survey %}
-<p><a href="{{ page.post_workshop_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="{{ page.post_workshop_survey }}">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
