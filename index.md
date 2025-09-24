@@ -214,7 +214,7 @@ Display the contact email address set in the configuration file.
   or
   {% else %}
   {% unless forloop.first %}
-,
+  ,
   {% endunless %}
   {% endif %}
   <a href='mailto:{{email}}'>{{email}}</a>
